@@ -1,0 +1,116 @@
+[
+  {
+    "id": "1767195428295",
+    "name": "Men's PU Backpack",
+    "price": 1200,
+    "originalPrice": 1500,
+    "category": "Men",
+    "productType": "Bag",
+    "availability": "Upcoming",
+    "preOrder": true,
+    "description": "Men's PU Backpack",
+    "imageUrls": [
+      "http://localhost:3000/uploads/1767195428284-Screenshot-2025-12-28-211217.png"
+    ],
+    "imageUrl": "http://localhost:3000/uploads/1767195428284-Screenshot-2025-12-28-211217.png",
+    "hasGiftBox": false,
+    "hasFreeDel": true,
+    "isHotSell": false
+  },
+  {
+    "id": "1767198785152",
+    "name": "Women's bag",
+    "price": 2000,
+    "originalPrice": 2499,
+    "category": "Women",
+    "productType": "Bag",
+    "availability": "Upcoming",
+    "preOrder": true,
+    "description": "Women's bag",
+    "imageUrls": [
+      "http://localhost:3000/uploads/1767198785118-5.png"
+    ],
+    "imageUrl": "http://localhost:3000/uploads/1767198785118-5.png",
+    "hasGiftBox": false,
+    "hasFreeDel": false,
+    "isHotSell": false
+  },
+  {
+    "id": "1767198938324",
+    "name": "Penguin bag ",
+    "price": 10,
+    "originalPrice": null,
+    "category": "Kids",
+    "productType": "Bag",
+    "availability": "Upcoming",
+    "preOrder": true,
+    "description": "Penguin bag ",
+    "imageUrls": [
+      "http://localhost:3000/uploads/1767198937621-14.png"
+    ],
+    "imageUrl": "http://localhost:3000/uploads/1767198937621-14.png",
+    "hasGiftBox": false,
+    "hasFreeDel": false,
+    "isHotSell": false
+  },
+  {
+    "id": "1767198993300",
+    "name": "Women's teddy bag",
+    "price": 0,
+    "originalPrice": null,
+    "category": "Women",
+    "productType": "Bag",
+    "availability": "Upcoming",
+    "preOrder": true,
+    "description": "",
+    "imageUrl": "http://localhost:3000/uploads/1767198993257-Screenshot-2025-12-25-022013.png"
+  },
+  {
+    "id": "1767199499940",
+    "name": "PU bag pack ",
+    "price": 0,
+    "originalPrice": null,
+    "category": "Women",
+    "productType": "Bag",
+    "availability": "Upcoming",
+    "preOrder": true,
+    "description": "",
+    "imageUrl": "http://localhost:3000/uploads/1767199499906-Screenshot-2025-12-25-031226.png"
+  },
+  {
+    "id": "1767199607035",
+    "name": "small stylish bag pack",
+    "price": 0,
+    "originalPrice": null,
+    "category": "Men",
+    "productType": "Bag",
+    "availability": "Upcoming",
+    "preOrder": true,
+    "description": "",
+    "imageUrl": "http://localhost:3000/uploads/1767199607034-Screenshot-2025-12-23-145534.png"
+  },
+  {
+    "id": "1767199822167",
+    "name": "olive PU  bag pack ",
+    "price": 0,
+    "originalPrice": null,
+    "category": "Men",
+    "productType": "Bag",
+    "availability": "Upcoming",
+    "preOrder": true,
+    "description": "",
+    "imageUrl": "http://localhost:3000/uploads/1767199822107-Screenshot-2025-12-23-145959.png"
+  },
+  {
+    "id": "1767200067461",
+    "name": "travel bag pack ",
+    "price": 0,
+    "originalPrice": null,
+    "category": "Travel",
+    "productType": "Bag",
+    "availability": "Upcoming",
+    "preOrder": true,
+    "description": "",
+    "imageUrl": "http://localhost:3000/uploads/1767200067411-Screenshot-2025-12-22-044552.png"
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "id": "OS-1774505869453",
+    "date": "2026-03-26T06:17:49.453Z",
+    "customer": {
+      "name": "MD Fahim AL Fahad",
+      "phone": "01791134834",
+      "address": "Mirpur 12, block c, road 4",
+      "note": ""
+    },
+    "items": [
+      {
+        "id": "1767195428295",
+        "name": "Men's PU Backpack",
+        "price": 1200,
+        "qty": 1,
+        "preOrder": true
+      }
+    ],
+    "total": 1200,
+    "advance": 360,
+    "isPreorder": true,
+    "paymentMethod": "bKash",
+    "txId": "DOntHave",
+    "status": "shipped",
+    "paymentStatus": "Pending"
+  }
+]
