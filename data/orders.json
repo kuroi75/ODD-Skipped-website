@@ -1,28 +1,28 @@
 [
   {
-    "id": "OS-1774505869453",
-    "date": "2026-03-26T06:17:49.453Z",
+    "id": "OS-1776774143274",
+    "date": "2026-04-21T12:22:23.274Z",
     "customer": {
-      "name": "MD Fahim AL Fahad",
+      "name": "Fahim AF",
       "phone": "01791134834",
-      "address": "Mirpur 12, block c, road 4",
-      "note": ""
+      "address": "Mirpur 12, block"
     },
     "items": [
       {
-        "id": "1767195428295",
-        "name": "Men's PU Backpack",
-        "price": 1200,
-        "qty": 1,
-        "preOrder": true
+        "id": "1767198785152",
+        "sku": "LB-1212",
+        "name": "Women's bag",
+        "price": 2000,
+        "qty": 1
       }
     ],
-    "total": 1200,
-    "advance": 360,
+    "total": 2000,
+    "advance": 600,
     "isPreorder": true,
     "paymentMethod": "bKash",
-    "txId": "DOntHave",
-    "status": "shipped",
-    "paymentStatus": "Pending"
+    "txId": "Xd21",
+    "status": "new",
+    "paidAmount": 2000,
+    "paymentStatus": "Paid"
   }
 ]
